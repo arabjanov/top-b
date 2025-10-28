@@ -17,7 +17,6 @@ const GEMINI_API_URL =
 const CACHE_FILE = "./cache.json";
 
 // 🔄 Cache faylni o‘qish
-// 🔄 Cache faylni o‘qish
 function loadCache() {
     try {
         const data = fs.readFileSync(CACHE_FILE, "utf-8");
@@ -31,6 +30,10 @@ function loadCache() {
 function saveCache(cache) {
     fs.writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2), "utf-8");
 }
+
+app.get("/sorov", (req, res) => {
+    res.send("ok");
+});
 
 app.post("/api/gemini", async (req, res) => {
     try {
