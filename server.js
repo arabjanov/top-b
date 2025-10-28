@@ -32,7 +32,7 @@ function saveCache(cache) {
 }
 
 app.get("/sorov", (req, res) => {
-    res.send("ok");
+    res.status(200);
 });
 
 app.post("/api/gemini", async (req, res) => {
