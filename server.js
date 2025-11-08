@@ -11,8 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_API_URL =
-    "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent";
+const GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent";
 
 const CACHE_FILE = "./cache.json";
 
@@ -81,6 +80,34 @@ app.post("/api/gemini", async (req, res) => {
         });
     }
 });
+
+const API_KEY = process.env.GEMINI_API_KEY;
+
+app.post("/api/gemini/ai", async (req, res) => {
+    try {
+        const body = req.body;
+
+        const response = await fetch(
+            `${GEMINI_API_URL}?key=${API_KEY}`,
+            {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(body)
+            }
+        );
+
+        const data = await response.json();
+        res.json(data);
+    } catch (err) {
+        console.error("Xato:", err);
+        res.status(500).json({ error: "Server xatosi" });
+    }
+});
+
+app.get("/api/mapbox-token", (req, res) => {
+    res.json({ token: process.env.MAPBOX_TOKEN });
+});
+
 
 const PORT = process.env.PORT || 4000;
 app.listen(PORT, () =>

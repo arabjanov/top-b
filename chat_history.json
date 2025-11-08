@@ -1,0 +1,115 @@
+{
+  "user_1761841182886": [
+    {
+      "user": "nima gap tinchmi",
+      "ai": "Salom! Barchasi yaxshi, rahmat. Sizda qanday yangiliklar?",
+      "timestamp": 1761841194549
+    },
+    {
+      "user": "menga andijonni tot ber",
+      "ai": "Andijon O'zbekistonning sharqiy qismida joylashgan shahar. U Farg'ona vodiysining markazida joylashgan va iqtisodiy hamda madaniy markazlardan biridir. Shaharning tarihiy ildizlari qadimga borib taqaladi.\n\n__COORD__(40.3156,72.4348)",
+      "timestamp": 1761841209357
+    }
+  ],
+  "user_1761841266080": [
+    {
+      "user": "nima gap tinchmi",
+      "ai": "Salom! Hammasi yaxshi, rahmat. Siz bilan suhbatlashishdan mamnunman. Sizga qanday yordam bera olaman?",
+      "timestamp": 1761841299138
+    },
+    {
+      "user": "menga dunyodagi eng mashhur stadionni ko'rsatdi",
+      "ai": "Dunyoning eng mashhur stadionlaridan biri - \"Uembli\" stadioni. U Angliyaning London shahrida joylashgan bo'lib, ko'plab yirik sport musobaqalari va konsertlarga mezbonlik qilgan.\n\n__COORD__(51.5559,-0.1716)",
+      "timestamp": 1761841317162
+    },
+    {
+      "user": "menga paxtakor stadionini ko'rsatdi",
+      "ai": "Paxtakor stadioni O'zbekistonning Toshkent shahrida joylashgan. Bu ko'plab sport tadbirlari, ayniqsa futbol o'yinlariga mezbonlik qiladigan mashhur stadiondir. U shahar markazida joylashgan va minglab muxlislarni o'z bag'riga sig'dira oladi.\n\n__COORD__(41.2862,69.2186)",
+      "timestamp": 1761841367982
+    },
+    {
+      "user": "menga toshkentni ko'rsat",
+      "ai": "Toshkent - O'zbekiston poytaxti va eng katta shahri. Bu shahar qadimiy va zamonaviy arxitektura uyg'unlashgan joy. Toshkent iqtisodiy, madaniy va siyosiy markaz hisoblanadi. U O'rta Osiyoning markazida joylashgan.\n\n__COORD__(41.3111,69.2797)",
+      "timestamp": 1761841399334
+    },
+    {
+      "user": "ovozim eshitilyaptimi",
+      "ai": "Salom! Sizning ovozingizni eshitmayapman, chunki men faqat matn orqali muloqot qila olaman. Siz yozgan xabarlarni o'qiyman.\n\nQanday yordam bera olaman?",
+      "timestamp": 1761841430805
+    },
+    {
+      "user": "ovozim eshitilyaptimiy faza-monaviy arxitektura uygunlashgan jalb toshkent iqtisodiy madaniyasi markazi hisoblanadi u ota osiyoning markazida joylashgan",
+      "ai": "Salom! Sizning ovozingizni eshitmayapman, chunki men faqat matn orqali muloqot qilaman. Xabaringizni o'qidim.\n\nToshkent haqida aytib o'tganingizdek, bu shahar chinakamiga qadimiy va zamonaviy uyg'unlashgan joy. Shaharning o'ziga xos arxitekturasi, iqtisodiy va madaniy ahamiyati uni O'rta Osiyoning markazida joylashgan muhim shaharga aylantiradi.\n\n__COORD__(41.3111,69.2797)",
+      "timestamp": 1761841462168
+    }
+  ],
+  "user_1761841682249": [
+    {
+      "user": "salom",
+      "ai": "Assalomu alaykum! Sizga qanday yordam bera olaman?",
+      "timestamp": 1761841693624
+    },
+    {
+      "user": "mensman hojiakbar",
+      "ai": "Assalomu alaykum, Hojakbar! Siz bilan tanishganimdan xursandman. Sizga qanday yordam bera olaman?",
+      "timestamp": 1761841708404
+    },
+    {
+      "user": "menga andijonda topib ber",
+      "ai": "Andijon O'zbekistonning sharqiy qismida joylashgan viloyat. Uning markazi Andijon shahri hisoblanadi. Viloyat Farg'ona vodiysining eng yirik va qadimiy shaharlaridan biridir. Andijon o'zining boy tarixi, madaniyati va mehmondo'stligi bilan mashhur.\n\n__COORD__(40.7857,72.3452)",
+      "timestamp": 1761841725372
+    }
+  ],
+  "user_1761841752762": [
+    {
+      "user": "menga andijonni topib ber va meni ismim hojiakbar",
+      "ai": "Salom, Hojiakbar! Andijon O'zbekistonning sharqiy qismida joylashgan, Farg'ona vodiysining muhim markazlaridan biridir. Bu shahar boy tarixga ega va qishloq xo'jaligi, ayniqsa paxtachilik va bog'dorchilik bilan mashhur.\n\n__COORD__(40.7857,72.3401)",
+      "timestamp": 1761841770844
+    },
+    {
+      "user": "menga toshkentni topib ber",
+      "ai": "Assalomu alaykum! Toshkent – O‘zbekiston Respublikasining poytaxti va eng yirik shahri. Farg‘ona vodiysiga kirishdagi muhim savdo markazi hisoblanadi. Bu shahar qadimiy va zamonaviy meʼmorchilikning uyg‘unlashgan joyidir.\n\n__COORD__(41.3111,69.2797)",
+      "timestamp": 1761841801844
+    },
+    {
+      "user": "men asmim nima esingda qoldimi",
+      "ai": "Sizning ismingiz **Hojiakbar** deb eslayman.",
+      "timestamp": 1761841829607
+    },
+    {
+      "user": "menga dunyodagi eng mashhur stadionlardan birini topib ber",
+      "ai": "Albatta, Hojiakbar! Dunyodagi eng mashhur stadionlardan biri sifatida **Uembli stadioni**ni aytish mumkin. London shahrida joylashgan bu stadion ko'plab tarixiy sport musobaqalariga mezbonlik qilgan. U o'zining ulkan sig'imi va noyob arxitekturasi bilan ajralib turadi.\n\n__COORD__(51.556,-0.1736)",
+      "timestamp": 1761841849746
+    },
+    {
+      "user": "menga dunyodagi eng mashhur voleybol stadionini topib ber koordinatalarda aniq qo'y kartada to'g'ri ko'rsatdi",
+      "ai": "Hojiakbar, dunyodagi eng mashhur voleybol stadionlaridan biri **Modena Volley Arenasi** hisoblanadi. Italiyaning Modena shahrida joylashgan bu arena ko'plab xalqaro musobaqalarga mezbonlik qilgan va voleybol ishqibozlari orasida katta shuhrat qozongan.\n\n__COORD__(44.6421,10.9219)",
+      "timestamp": 1761841895092
+    },
+    {
+      "user": "menga al-nasrda stadionini topdi",
+      "ai": "Albatta, Hojiakbar! \"Al-Nasr\" stadionining joylashuvi haqida ma'lumot berishim mumkin. Bu stadion Dubayda joylashgan va ko'plab sport tadbirlariga mezbonlik qiladi. Uning sig'imi ham yetarlicha katta.\n\n__COORD__(25.2095,55.3008)",
+      "timestamp": 1761841951402
+    },
+    {
+      "user": "menga dunyodagi eng mashhur futbol stadionlardan yana birini ko'rsatdi",
+      "ai": "Albatta, Hojiakbar! Dunyodagi eng mashhur futbol stadionlardan biri - **Kamp Nou**. U Ispaniyaning Barselona shahrida joylashgan bo'lib, \"Barselona\" futbol klubining uy stadioni hisoblanadi. Bu stadion jahonning eng katta stadionlaridan biri va ko'plab tarixiy uchrashuvlarga mezbonlik qilgan.\n\n__COORD__(41.3809,2.1229)",
+      "timestamp": 1761841982186
+    },
+    {
+      "user": "menga qaytiq shahrini ko'rsat",
+      "ai": "Hojiakbar, Qaytiq – Liviyadagi muhim shahar. U mamlakatning shimoli-g'arbiy qismida, Qabosh ko'rfazi sohilida joylashgan. Qaytiq iqtisodiy jihatdan muhim port shahri hisoblanadi.\n\n__COORD__(32.8956,13.1356)",
+      "timestamp": 1761842014357
+    },
+    {
+      "user": "menga toshkentda joylashgan algoritm shahrini ko'rsatdi",
+      "ai": "Hojiakbar, men sizga Toshkentda joylashgan algoritm shahri haqida ma'lumot bera olmayman. Men faqat shahar, davlat va joylarning koordinatalarini topishda yordam bera olaman.",
+      "timestamp": 1761842042730
+    },
+    {
+      "user": "menga o'zbekistondagi eng mashhur shaharlardan birini ko'rsatadi",
+      "ai": "Assalomu alaykum, Hojiakbar! O'zbekistondagi eng mashhur shaharlardan biri **Samarqand**dir. Bu shahar Buyuk Ipak Yo'lining markazida joylashgan bo'lib, o'zining qadimiy me'moriy yodgorliklari bilan dunyoga dong taratgan. Samarqand ko'plab sultonlar va ilm-fan arboblari hayoti bilan bog'liq.\n\n__COORD__(39.6549,66.9638)",
+      "timestamp": 1761842067943
+    }
+  ]
+}
